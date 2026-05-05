@@ -13,7 +13,9 @@ git commit -m "first commit"NNNSSSXDS SA
 S
 A
 
-D S
+D SA
+AS
+
 A
 AS
 SA
