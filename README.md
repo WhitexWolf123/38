@@ -16,7 +16,10 @@ A
 D S
 A
 AS
-AS
+ASAS
+A
+S
+S
 
 SAS
 AS
