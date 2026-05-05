@@ -10,7 +10,7 @@ git initCC
 git add README.md
 git commit -m "first commit"VV
 git branch -M mainXC
-git init
+git initCC
 git add README.md
 git commit -m "first commit"
 git branch -M main
