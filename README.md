@@ -1,6 +1,6 @@
 # 38echo "# base2" >> README.md
 git init
-git add README.md
+git add README.mdS
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/WhitexWolf123/base2.git
