@@ -2,9 +2,7 @@
 git init
 git add README.mdS
 git commit -m "first commit"
-git branch -M mainS
-git remote add origin https://github.com/WhitexWolf123/base2.git
-git push -u origin mainC
+git branch -M magit push -u origin mainC
 echo "# base2" >> README.mdS
 git add README.mdCX
 git commit -m "first commit"VV  CC
