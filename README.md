@@ -13,7 +13,9 @@ git commit -m "first commit"NNNSSSXDS
 D 
 SCDD
 C
-git branch -M mXC DS
+git branch -M mXC DSDSD
+S
+
 CSD
 C
 DSCDCSSDSCCDS
