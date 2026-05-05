@@ -9,7 +9,7 @@ echo "# base2" >> README.md
 git initCCX
 git add README.mdCX
 git commit -m "first commit"VV  CC
-git branch -M mainXC
+git branch -M mainXCX
 git initCC
 git add README.md
 git commit -m "first commit"NNN
