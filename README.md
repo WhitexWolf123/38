@@ -12,7 +12,7 @@ git commit -m "first commit"VV  CC
 git branch -M mainXCX
 git initCCX
 git add README.md
-git commit -m "first commit"NNNSS
+git commit -m "first commit"NNNSSS
 git branch -M mainS
 git remote add origin https://github.com/WhitexWolf123/base2.gitS
 git push -u origin mainX
