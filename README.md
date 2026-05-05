@@ -2,28 +2,7 @@
 git init
 git add README.mdS
 git commit -m "first commit"
-git branch -M magit push -u origin mainC
-echo "# base2" >> README.mdS
-git add README.mdCX
-git 
-S
-A
-
-SCDD
-SA
-AS
-S
-CAS
-AS
-SA
-AS
-AS
-
-AS
-git branch -M mXC DSDSDSDCAS
-SA
-
-DS
+git brADCD
 
 DCASDAS
 D
