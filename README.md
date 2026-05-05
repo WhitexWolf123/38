@@ -11,6 +11,8 @@ git initCCX
 git add README.md
 git commit -m "first commit"NNNSSSXDS 
 D 
+SCDD
+C
 git branch -M mXC D
 DSCDCSSDSC
 SD
