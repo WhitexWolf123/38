@@ -5,26 +5,7 @@ git commit -m "first commit"
 git branch -M magit push -u origin mainC
 echo "# base2" >> README.mdS
 git add README.mdCX
-git commi
-X
-S
-
-A
-AS
-SA
-
-AS
-ASAS
-A
-S
-S
-
-SAS
-AS
-SA
-
-
-AS
+git 
 S
 A
 
