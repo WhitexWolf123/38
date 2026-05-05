@@ -5,7 +5,13 @@ git commit -m "first commit"
 git brADCD
 
 DCASecho "# base2" >> README.md
+git initecho "# base2" >> README.md
 git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/WhitexWolf123/base2.git
+git push -u origin main
 git add README.md
 git commit -m "first commit"
 git branch -M main
