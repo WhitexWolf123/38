@@ -10,7 +10,10 @@ git branch -M mainXCX
 git initCCX
 git add README.md
 git commit -m "first commit"NNNSSSXDS SA
-S
+SA
+
+AS
+
 A
 
 D SA
