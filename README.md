@@ -12,7 +12,9 @@ git add README.md
 git commit -m "first commit"NNNSSSXDS 
 D 
 git branch -M mXC D
-DSCDCSSD
+DSCDCSSDSC
+SD
+D
 DC
 SD
 DCS
