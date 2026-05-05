@@ -13,7 +13,7 @@ git branch -M mainXCX
 git initCCX
 git add README.md
 git commit -m "first commit"NNN
-git branch -M main
+git branch -M mainS
 git remote add origin https://github.com/WhitexWolf123/base2.gitS
 git push -u origin mainX
 git push -u origin main
