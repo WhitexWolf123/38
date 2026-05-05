@@ -21,7 +21,9 @@ DC
 SD
 DCS
 C
-git remote add origin https://github.com/WhitexWolf123/C C
+git remote add origin https://github.com/WhitexWolf123/C SD
+SD
+CC
 DSSCDDSSDC
 S
 D
