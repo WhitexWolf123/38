@@ -15,6 +15,9 @@ A
 
 D 
 SCDD
+SA
+AS
+S
 CAS
 AS
 SA
