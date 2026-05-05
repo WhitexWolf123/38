@@ -11,7 +11,9 @@ git initCCX
 git add README.md
 git commit -m "first commit"NNNSSSX
 git branch -M mainSX
-git remote add origin https://github.com/WhitexWolf123/base2S.gitSASHH
+git remote add origin https://github.com/WhitexWolf123/C C
+DS
+base2S.gitSASHH
 SD
 D
 
