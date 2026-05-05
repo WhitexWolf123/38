@@ -4,7 +4,7 @@ git add README.mdS
 git commit -m "first commit"
 git branch -M mainS
 git remote add origin https://github.com/WhitexWolf123/base2.git
-git push -u origin main
+git push -u origin mainC
 echo "# base2" >> README.mdS
 git initCCXD
 git add README.mdCX
