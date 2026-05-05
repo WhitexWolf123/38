@@ -16,14 +16,15 @@ git push -u origin mainX
 git push -u origin maingit add README.mdS
 
 git remote add origin https://github.com/WhitexWolf123/base2.git
-git push -u origin main
+git push -u origin mainSCC
 X
 X
 XX
 X
 A
 S
-S
+SSC
+CSC
 SSC
 
 SC
