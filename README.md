@@ -9,7 +9,10 @@ git commit -m "first commit"VV  CC
 git branch -M mainXCX
 git initCCX
 git add README.md
-git commit -m "first commit"NNNSSSXDS 
+git commit -m "first commit"NNNSSSXDS SA
+S
+A
+
 D 
 SCDD
 CAS
