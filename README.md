@@ -13,10 +13,7 @@ git commit -m "first commit"NNNSSSX
 git branch -M mainSX
 git remote add origin https://github.com/WhitexWolf123/base2S.gitS
 git push -u origin mainX
-git push -u origin main
-echo "# base2" >> README.mdV
-git init
-git add README.mdS
+git push -u origin maingit add README.mdS
 
 git remote add origin https://github.com/WhitexWolf123/base2.git
 git push -u origin main
