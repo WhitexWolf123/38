@@ -14,7 +14,8 @@ git branch -M mainSX
 git remote add origin https://github.com/WhitexWolf123/base2S.gitS
 git push -u origin mainX
 git push -u origin maingit add README.mdS
-
+CCXC
+C  C
 git remote add origin https://github.com/WhitexWolf123/base2.git
 git push -u origin mainSCC
 X
