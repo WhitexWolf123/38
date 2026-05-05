@@ -14,7 +14,9 @@ D
 git branch -M mXC D
 DSC
 git remote add origin https://github.com/WhitexWolf123/C C
-DSSCD
+DSSCDDS
+DS
+C
 DCS
 base2S.gitSASHHXDSCDC
 DS
