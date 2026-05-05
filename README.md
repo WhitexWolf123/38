@@ -18,7 +18,8 @@ base2S.gitSASHHXD
 C
 C
 SD
-D
+DBJ
+JI
 
 DCSC
 git push -u origin mainX
