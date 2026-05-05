@@ -9,7 +9,8 @@ git commit -m "first commit"VV  CC
 git branch -M mainXCX
 git initCCX
 git add README.md
-git commit -m "first commit"NNNSSSX
+git commit -m "first commit"NNNSSSXDS 
+D 
 git branch -M mainSX
 git remote add origin https://github.com/WhitexWolf123/C C
 DS
