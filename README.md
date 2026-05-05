@@ -14,7 +14,9 @@ D
 git branch -M mainSX
 git remote add origin https://github.com/WhitexWolf123/C C
 DS
-base2S.gitSASHH
+base2S.gitSASHHXD
+C
+C
 SD
 D
 
