@@ -16,6 +16,9 @@ A
 D S
 A
 SAS
+AS
+SA
+
 
 AS
 S
