@@ -8,7 +8,7 @@ git push -u origin main
 echo "# base2" >> README.md
 git initCC
 git add README.mdC
-git commit -m "first commit"VV  C
+git commit -m "first commit"VV  CC
 git branch -M mainXC
 git initCC
 git add README.md
