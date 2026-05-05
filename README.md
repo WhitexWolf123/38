@@ -4,25 +4,13 @@ git add README.mdS
 git commit -m "first commit"
 git brADCD
 
-DCASDAS
-D
-SA
-S
-SA
-SC
-Secho "# base2" >> README.md
+DCASecho "# base2" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/WhitexWolf123/base2.git
 git push -u origin main
-DSSDC
-DS
-CSDCSSCSDVSDC
-S
-DS
-
 C
 DVS
 
