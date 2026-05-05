@@ -12,7 +12,9 @@ git add README.md
 git commit -m "first commit"NNNSSSXDS 
 D 
 git branch -M mXC D
-DSC
+DSCDCS
+DCS
+C
 git remote add origin https://github.com/WhitexWolf123/C C
 DSSCDDSSDC
 S
