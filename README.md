@@ -16,6 +16,9 @@ A
 D S
 A
 AS
+SA
+
+AS
 ASAS
 A
 S
