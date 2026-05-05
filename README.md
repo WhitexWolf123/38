@@ -7,7 +7,7 @@ git remote add origin https://github.com/WhitexWolf123/base2.git
 git push -u origin main
 echo "# base2" >> README.md
 git initCC
-git add README.md
+git add README.mdC
 git commit -m "first commit"VV  C
 git branch -M mainXC
 git initCC
