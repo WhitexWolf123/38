@@ -21,7 +21,8 @@ X
 X
 XX
 X
-A
+AX 
+XC
 S
 SSC
 CSC
