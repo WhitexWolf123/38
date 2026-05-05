@@ -16,7 +16,9 @@ DSC
 git remote add origin https://github.com/WhitexWolf123/C C
 DS
 base2S.gitSASHHXD
-C
+CSDD
+SCD
+
 C
 SD
 DBJ
